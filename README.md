@@ -2,8 +2,8 @@
 **Mojizuri PIC C Library**
 
 ## コンパイラ
-Microchip MPLAB XC8 C Compiler V1.42
-Build date: Apr 12 2017
+Microchip MPLAB XC8 C Compiler V1.42  
+Build date: Apr 12 2017  
 Part Support Version: 1.42
 
 ## コンパイルオプション
